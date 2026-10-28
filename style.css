@@ -1,0 +1,427 @@
+                                        /* N16 */
+li.one{
+    color: green;
+}
+
+li.two{
+    color: yellow;
+}
+                                      /* N17 */
+p.one{
+    color: orange;
+}
+
+ol.one{
+    color: orange;
+}
+
+h3.one{
+    color: orange;
+}
+                                        /* N19 */
+        
+.part{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}   
+                                         /* N20 */
+.item1{
+    color: yellow;
+
+} 
+
+.item2{
+    color: green;
+}
+
+.item3{
+    font-size: 50px;
+}
+                                       /* N21 */
+.col1{
+    color: green;
+ } 
+.col2{
+    color: red;
+}
+                                          /* N22 */
+.one, .two {
+  font-family: "Courier New";
+  font-weight: bold;
+}
+
+.one {
+  font-size: 30px;
+  color: red;
+}
+
+.two {
+  font-size: 50px;
+  color: green;
+}                                          
+                                                /* n23 */
+.one, .two, .three {
+  font-size: 50px;
+}
+
+.one, .three {
+  font-family: "Courier New";
+  font-weight: bold;
+}
+
+.one {
+  color: green;
+}
+
+.two {
+  font-family: "Times New Roman";
+  color: green;
+}
+
+.three {
+  color: red;
+}                                                
+                                                /* N24 */
+.header {
+font-weight: bold;
+} 
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+                                                  /* N25 */                                       
+.one,i{
+    color: green;
+}
+.one,i{
+    color: red;
+}
+                                                   /* N26 */
+
+ .title{
+    color: red;
+ } 
+
+ .group h1.title {
+  font-size: 50px;
+  color: green;
+}
+
+                                                   /* N28 */
+.one h1.two {
+font-size: 50px;
+}                        
+                                                    /* N30 */
+ .one .two .three {
+font-size: 50px;
+}
+                                                    /* N31 */
+ h1.one {
+font-size: 50px;
+}
+                                                    /* N32 */
+   h1.one {
+font-size: 50px;
+}  
+                                                      /* N33 */
+ .one h1 .two {
+font-size: 50px;
+} 
+                                                       /* N34 */
+.normal {
+color: black;
+}
+.error {
+color: red;
+}
+.big {
+font-size: 60px;
+}
+.little {
+font-size: 30px;
+}  
+                                                         /* N35  */
+ #item1 {
+  font-style: italic;
+}
+
+#item2 {
+  font-weight: bold;
+}
+
+#item3 {
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+}  
+                                                           /* N36  */
+  ul li:nth-child(-n+2) {
+  color: red;
+}
+                                                          /* N37  */
+ #item .one {
+  font-weight: bold;
+} 
+                                                          /* N38 */
+.one.two.three {
+  font-weight: bold;
+}
+                                                            /* N39 */
+/* 42 */
+#item h2,h3 {
+color: green;
+}
+
+/* 43 */
+#item h2 {
+color: green;
+font-size: 40px;
+}
+
+#item h3 {
+font-size: 60px;
+}
+
+/* 44 */
+.one .two {
+color: green;
+}
+
+.three p.four {
+color: green;
+}
+
+/* 45 */
+#item p {
+  font-weight: bold;
+}
+/* 46 */
+#item .one {
+  color: green;
+}
+
+/* 47 */
+.one, .two {
+  font-weight: bold;
+  color: red;
+}
+/* 48 */
+h1.one, p.two {
+  color: green;
+}
+
+/* 49 */
+#item h1.two,
+.one p.two {
+  font-weight: bold;
+}
+
+/* 50 */
+p.one {
+  color: green;
+}
+
+/* 51 */
+p {
+color: red;
+}
+ამ კოდში ტექსტი საბოლოოდ იქნება წითელი
+
+/* 52 */
+p {
+color: red;
+font-size: 20px;
+}
+/* 53 */
+
+.one {
+font-size: 20px;
+}
+
+/* 54 */
+#item {
+font-size: 50px;
+}
+
+/* 55 */
+div h2 {
+  font-size: 20px;
+}
+
+/* 56 */
+.one .two {
+  font-size: 20px;
+}
+
+/* 57 */
+.one {
+font-size: 50px;
+}
+
+/* 58 */
+#item {
+font-size: 20px;
+}
+
+/* 59 */
+div + h2 {
+  font-weight: bold;
+}
+
+/* 60 */
+.one + h2 {
+  color: red;
+}
+
+/* 61 */
+.one + .two {
+  color: red;
+}
+
+/* 62 */
+div + h2 {
+  font-weight: bold;
+}
+
+/* 63 */
+.one + h2 {
+  color: red;
+}
+
+/* 64 */
+.one + .two {
+  color: red;
+}
+/* 65 */
+*{
+    color: green;
+}
+
+/* 66 */div {
+  color: green;
+}
+
+/* 67 */
+[disable] {
+  color: #d5d5d5;
+}
+
+/* 68 */
+a[href="#"] {
+  color: red;
+}
+
+/* 69 */
+[cite~="Lennon"] {
+  border: 2px solid blueviolet;
+}
+
+/* 70 */
+[cite~="Lennon"] {
+  border: 2px solid blueviolet;
+}
+
+/* 71 */
+p[title*="awesome"] {
+  color: green;
+}
+
+/* 72 */
+p[class|="first"] {
+  color: green;
+}
+
+/* 73 */
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+a:active {
+  color: black;
+}
+
+/* 75 */
+#item a {
+  color: blue;
+  text-decoration: underline;
+}
+
+#item a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+/* 76 */
+.one {
+  color: blue;
+  text-decoration: underline;
+}
+
+.one:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.two:link {
+  color: blue;
+}
+
+.two:visited {
+  color: green;
+}
+
+.two:hover {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.two:active {
+  color: black;
+}
+
+/* 77 */
+li:first-child {
+  color: green;
+}
+
+/* 78 */
+li:last-child {
+  color: red;
+}
+
+/* 79 */
+li:nth-child(2) {
+  color: red;
+}
+
+/* 80 */
+li:nth-child(odd) {
+  color: red;
+}
+
+/* 81 */
+p:not(.paragraph) {
+  color: red;
+}
+
+
+
+                                                       
+                                                    
+                                                                                                      
+
+                                              
+   
